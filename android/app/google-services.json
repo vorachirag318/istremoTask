@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955581376783",
+    "project_id": "demotask-4afce",
+    "storage_bucket": "demotask-4afce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955581376783:android:a0cf881168680e0bb3f67a",
+        "android_client_info": {
+          "package_name": "com.app.demotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955581376783-fuiqbaa56dfsvbdoiorujvu7heco7seu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCS7UgxjBEV0-rP2KYKpj7-tvSzOUyY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955581376783-fuiqbaa56dfsvbdoiorujvu7heco7seu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
